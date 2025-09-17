@@ -1,0 +1,17 @@
+//simple c program(Hello world)
+/*
+Name:Michael
+reg:CT100/G/26226/25
+Description:Hello world program\
+*/
+#include <stdio.h> //pre-processer directive
+
+//main function
+int main(){
+    printf("Hello world\n");
+    printf("Good evening\n");
+    printf("Good evening too\n");
+    return 0;
+}
+
+
