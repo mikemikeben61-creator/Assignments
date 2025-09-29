@@ -17,11 +17,12 @@ int main(){
     scanf("%f", &income);
 
     //checking if the user qualifies for a loan
-    if (age>=21 & income>=21000)
+    if (age>=21 && income>=21000)
     {
         printf("you qualify for a loan\n");
     }
     else {
-        printf("you dont qualify for a loan\n");}
+        printf("you dont qualify for a loan\n");
         return 0;
     }
+
