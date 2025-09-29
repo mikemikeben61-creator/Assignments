@@ -23,6 +23,8 @@ int main(){
     }
     else {
         printf("you dont qualify for a loan\n");
+    }
         return 0;
     }
+
 
